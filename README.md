@@ -1,4 +1,4 @@
-# Java - Demo Web Application prueba practica1
+# Java - Demo Web Application prueba practica2
 
 This is a simple Java web app built using Spring Boot and OpenJDK 11.
 
